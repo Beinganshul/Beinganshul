@@ -15,9 +15,6 @@ I’m a Computer Science student with a strong interest in software development 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Beinganshul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Beinganshul&icon=0&color=0)](https://visitcount.itsvg.in)
 
